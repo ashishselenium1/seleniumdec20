@@ -1,0 +1,30 @@
+{
+	"testdata":[
+	{
+	   "flag":"createnewportfolio",
+	    "data":[
+	     {
+	     "portfolioname":"Folio2021",
+	     "runmode":"Y"
+	     },
+	     {
+	     "portfolioname":"Folio2022",
+	     "runmode":"Y"
+	     }
+	    ]		
+	},
+	{
+	   "flag":"deleteportfolio",
+	    "data":[
+	     {
+	     "portfolioname":"Folio2021",
+	     "runmode":"N"
+	     },
+	     {
+	     "portfolioname":"Folio2022",
+	     "runmode":"N"
+	     }
+	    ]		
+	}
+]
+}
