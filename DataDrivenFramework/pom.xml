@@ -79,8 +79,9 @@
             </goals>
         </execution>
     </executions>
+    
     <configuration>
-        <mainClass>runner.ReadingJSON</mainClass>
+        <mainClass>runner.JSONRunner</mainClass>
             <classpathScope>test</classpathScope>
     </configuration>
 </plugin>  
